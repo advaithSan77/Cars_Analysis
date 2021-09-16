@@ -1,0 +1,1 @@
+The project is used to analyse the statistics of around 2500 cars in the US. Various aspects of the trends of car purchases are analysed in various states and graphs are plotted. It is made on jupyter notebooks using python and its libraries pandas and matplotlib.
